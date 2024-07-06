@@ -1,1 +1,1 @@
-# MedPred
+# Holistic Health Prediction
